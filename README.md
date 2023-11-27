@@ -13,7 +13,7 @@ Make sure you have the following installed on your machine:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your/repository.git
+    git clone https://github.com/Kethankrk/college-app-backend-golang.git
     cd repository
     ```
 
